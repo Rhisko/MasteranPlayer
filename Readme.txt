@@ -2,3 +2,4 @@
 2. Copy dwlgina3.dll Ke Syswow64
 3. flashplayer_22_ax_debug.exe ( windows 7 ) Windows 10 Tidak Perlu
 4. libmySQL.dll ( Copy Ke Syswow64 )
+5. Create Directory C:\slidepromo\picture
